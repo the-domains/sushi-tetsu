@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Sushi Tetsu]]></title>
         <description><![CDATA[Sushi Tetsu]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sushi-tetsu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 21:37:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 Nov 2015 21:37:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sushi-tetsu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sushi Tetsu - Traditional Japanese Sushi Bar - Gallery]]></title>
+            <description><![CDATA[<article><h1>Sushi Tetsu - Traditional Japanese Sushi Bar - Gallery</h1><p>Sushi Tetsu is a traditional Japanese Sushi Bar owned and run by husband and wife combination, Harumi and Toru Takahashi. Specialising in Sushi and Sashimi, Chef Toru has a vision of bringing a relaxed sushi experience to the hidden alleyways of Clerkenwell, London.</p><img src="http://sushitetsu.co.uk/data1/images/restaurant1.jpg"></article>]]></description>
+            <link>http://sushitetsu.co.uk/gallery.html</link>
+            <guid isPermaLink="false">da87a11a-f084-4363-81f8-58784d464272</guid>
+            <pubDate>Wed, 18 Nov 2015 21:37:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sushi Tetsu - Traditional Japanese Sushi Bar - Find Us]]></title>
             <description><![CDATA[<article><h1>Sushi Tetsu - Traditional Japanese Sushi Bar - Find Us</h1><p>Sushi Tetsu is a traditional Japanese Sushi Bar owned and run by husband and wife combination, Harumi and Toru Takahashi. Specialising in Sushi and Sashimi, Chef Toru has a vision of bringing a relaxed sushi experience to the hidden alleyways of Clerkenwell, London.</p><img src="http://sushitetsu.co.uk/images/sushi-tetsu-restaurant-front.jpg"></article>]]></description>
