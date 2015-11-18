@@ -1,23 +1,40 @@
-name: Sushi Tetsu
-favicon: null
 layout_spectrum: 0.3507875371724367
-typography_spectrum: 0.6085988450795412
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.13867677771486342
-  lightness: 0.2844295499380678
-  saturation: 0.36826361366547644
-  rhythmicContrast: 0.9882865222170949
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.3682636136654764
+  lightness: 0.2844295499380678
+  brandStrength: 0.8888889
+  brandColors:
+    - '#EEFEFC'
+    - '#2E290C'
+    - '#917816'
+    - '#5C4B16'
+    - '#C6BC9A'
+  rhythmicContrast: 0.9882865222170949
+typography_spectrum: 0.6085988450795412
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Sushi Tetsu
