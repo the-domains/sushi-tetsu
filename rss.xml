@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sushi Tetsu]]></title>
+        <description><![CDATA[Sushi Tetsu]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 Nov 2015 21:37:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sushi Tetsu - Traditional Japanese Sushi Bar - Find Us]]></title>
+            <description><![CDATA[<article><h1>Sushi Tetsu - Traditional Japanese Sushi Bar - Find Us</h1><p>Sushi Tetsu is a traditional Japanese Sushi Bar owned and run by husband and wife combination, Harumi and Toru Takahashi. Specialising in Sushi and Sashimi, Chef Toru has a vision of bringing a relaxed sushi experience to the hidden alleyways of Clerkenwell, London.</p><img src="http://sushitetsu.co.uk/images/sushi-tetsu-restaurant-front.jpg"></article>]]></description>
+            <link>http://sushitetsu.co.uk/find.html</link>
+            <guid isPermaLink="false">bef9988b-1ce9-445c-a41c-e5c804f659ed</guid>
+            <pubDate>Wed, 18 Nov 2015 21:37:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
